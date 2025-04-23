@@ -3,7 +3,7 @@
 Plugin Name: Stupid Simple Update Email Disabler
 Plugin URI: https://github.com/bedynamictech/Stupid-Simple-Update-Email-Disabler
 Description: Disables successful auto-update emails for WordPress core, plugins and themes.
-Version: 1.0
+Version: 1.0.1
 Author: Dynamic Technologies
 Author URI: https://bedynamic.tech
 License: GPLv2 or later
