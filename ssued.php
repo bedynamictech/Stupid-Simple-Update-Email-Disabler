@@ -1,12 +1,11 @@
 <?php
 /*
 Plugin Name: Stupid Simple Update Email Disabler
-Plugin URI: https://bedynamic.tech
+Plugin URI: https://github.com/bedynamictech/Stupid-Simple-Update-Email-Disabler
 Description: Disables successful auto-update emails for WordPress core, plugins and themes.
 Version: 1.0
 Author: Dynamic Technologies
 Author URI: https://bedynamic.tech
-Plugin URI: https://github.com/bedynamictech/Stupid-Simple-Update-Email-Disabler
 License: GPLv2 or later
 Text Domain: stupid-simple-update-email-disabler
  */
